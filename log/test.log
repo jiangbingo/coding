@@ -1,0 +1,56 @@
+================================
+time:2016-11-06 22:40:16,390
+logger:test
+level:ERROR
+file:excise_40.py
+fun:error
+lineno:40
+message:my message
+****************
+Traceback (most recent call last):
+  File "D:\userdata\bijiang\Desktop\jiangbin\test\excise_40.py", line 49, in <module>
+    print 1/0
+ZeroDivisionError: integer division or modulo by zero
+
+================================
+time:2016-11-07 09:45:54,085
+logger:test
+level:ERROR
+file:excise_40.py
+fun:error
+lineno:40
+message:my message
+****************
+Traceback (most recent call last):
+  File "excise_40.py", line 49, in <module>
+    print 1/0
+ZeroDivisionError: integer division or modulo by zero
+
+================================
+time:2016-11-11 16:34:17,440
+logger:test
+level:ERROR
+file:excise_40.py
+fun:error
+lineno:40
+message:my message
+****************
+Traceback (most recent call last):
+  File "D:\userdata\bijiang\Desktop\jiangbin\test\excise_40.py", line 49, in <module>
+    print 1/0
+ZeroDivisionError: integer division or modulo by zero
+
+================================
+time:2016-12-13 09:24:29,740
+logger:test
+level:ERROR
+file:excise_40.py
+fun:error
+lineno:40
+message:my message
+****************
+Traceback (most recent call last):
+  File "D:\userdata\bijiang\Desktop\jiangbin\code\test\excise_40.py", line 49, in <module>
+    print 1/0
+ZeroDivisionError: integer division or modulo by zero
+
